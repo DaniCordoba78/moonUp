@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "493993942830",
+    "project_id": "moonup-919b1",
+    "storage_bucket": "moonup-919b1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493993942830:android:f540dcbba422ac934364bf",
+        "android_client_info": {
+          "package_name": "com.danielcordoba.moonUp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgAQSubUDKsA_M8pAb2z8RMGKTYCTfT0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
