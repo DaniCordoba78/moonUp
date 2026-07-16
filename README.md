@@ -1,17 +1,16 @@
-# app
+# Moon Up
 
-A new Flutter project.
+Moon Up is a mobile application built with Flutter that combines nightlife discovery, social networking and ticket purchasing in one platform.
 
-## Getting Started
+## Tech Stack
 
-This project is a starting point for a Flutter application.
+- Flutter
+- Firebase
+- Riverpod
+- GoRouter
+- Firestore
+- Firebase Auth
 
-A few resources to get you started if this is your first Flutter project:
+## Status
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ In Development
